@@ -1,0 +1,6 @@
+PLAN_PRODUCTS_LIMITS = {
+    "FREE": 5,
+    "PREMIUM": 20,
+    "PROFESSIONAL": 60,
+    "BUSINESS": 200
+}
